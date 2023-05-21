@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color background_color
+color black
+color calculator_btn_background
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id addition_btn
+id bracket_btn
+id calculation_window
+id clear_btn
+id divide_btn
+id dot_btn
+id eight_btn
+id equals_btn
+id five_btn
+id four_btn
+id modulo_btn
+id multiply_btn
+id nine_btn
+id one_btn
+id seven_btn
+id six_btn
+id substraction_btn
+id three_btn
+id two_btn
+id zero_btn
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string calculator_btn_text_size
+style Base.Theme.SimpleCalculator
+style Theme.SimpleCalculator
+xml backup_rules
+xml data_extraction_rules

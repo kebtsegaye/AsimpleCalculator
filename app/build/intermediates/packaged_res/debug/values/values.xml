@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#39393A</color>
+    <color name="black">#FF000000</color>
+    <color name="calculator_btn_background">#93C9DC</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="calculator_btn_text_size">SimpleCalculator</string>
+    <style name="Base.Theme.SimpleCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.SimpleCalculator" parent="Base.Theme.SimpleCalculator"/>
+</resources>
